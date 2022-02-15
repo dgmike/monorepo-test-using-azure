@@ -1,0 +1,24 @@
+{
+  "name": "monorepo-test-using-azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgmike/monorepo-test-using-azure.git"
+  },
+  "keywords": [],
+  "author": "Michael Castillo Granados <michaelgranados@gmail.com> (https://dgmike.com.br/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgmike/monorepo-test-using-azure/issues"
+  },
+  "homepage": "https://github.com/dgmike/monorepo-test-using-azure#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
